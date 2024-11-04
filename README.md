@@ -11,7 +11,7 @@ This is a responsive website template built using **HTML** and **CSS**. It can b
 
 ## Preview
 
-![Template Preview](link-to-image)
+![Template Preview](https://drive.google.com/file/d/1vBYrgBplv3ChBnUtArwpYhG7Gt90Qwff/view?usp=sharing)
 
 ## Usage
 
