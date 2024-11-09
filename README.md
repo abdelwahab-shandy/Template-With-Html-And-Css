@@ -1,4 +1,7 @@
 # Template-With-Html-And-Css
+![License](https://img.shields.io/github/license/abdelwahab-shandy/Template-With-Html-And-Css)
+![Issues](https://img.shields.io/github/issues/abdelwahab-shandy/Template-With-Html-And-Css)
+![Stars](https://img.shields.io/github/stars/abdelwahab-shandy/Template-With-Html-And-Css)
 
 This is a responsive website template built using **HTML** and **CSS**. It can be used as a foundation for various types of web projects, such as personal portfolios, business landing pages, and simple informational websites.
 
